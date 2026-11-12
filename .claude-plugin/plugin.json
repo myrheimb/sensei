@@ -1,0 +1,9 @@
+{
+  "name": "sensei",
+  "version": "0.1.0",
+  "description": "A Claude Code plugin where you write the code. Claude plans with you, gives you tests to make pass, hints when you're stuck and reviews your work.",
+  "author": {
+    "name": "Bjørnar Myrheim"
+  },
+  "license": "MIT"
+}
